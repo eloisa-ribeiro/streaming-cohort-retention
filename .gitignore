@@ -1,0 +1,8 @@
+# Dados brutos (baixar do Kaggle)
+*.csv
+*.7z
+data/
+
+# Arquivos temporários
+.DS_Store
+~$*
